@@ -1,5 +1,5 @@
-[1mnumpy[0m==2.5.4
-[1mpandas[0m==3.0.6
-[1mpython-dateutil[0m==2.9.0.post0
-[1msix[0m==1.17.0
-[1mtzdata[0m==2026.5
+numpy==2.5.4
+pandas==3.0.6
+python-dateutil==2.9.0.post0
+six==1.17.0
+tzdata==2026.5
